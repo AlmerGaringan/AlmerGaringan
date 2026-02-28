@@ -1,4 +1,23 @@
-## Hi there 👋
+## Hi, I'm Almer Garingan 👋
+# About me
+- 2nd year Management Information Systems @ San Jose State University
+- Focus on IT and Incident Response
+- Competed in CCDC as a Linux Administrator 
+- Treasurer for Cyber Intelligence & Security @ San Jose State University
+- Cyber Security Extern @ Hydroficient 
+
+# Skills
+- Scripting & Automation:  Python | SQL | Powershell | Bash
+- Security & SOC Tools: SIEM | Splunk | Elastic | Kibana | Wireshark | Nmap | BurpSuite | Suricata IDS | Cowrie | MITRE ATT&CK
+- Systems, Networking & Cloud: Windows | Linux (Ubuntu, Debian, Kali) | macOS | DNS | DHCP | TCP/IP | AWS EC2 | DigitalOcean
+
+# Certifications
+- Google Cyber Security Professional Certificate
+
+# Contact
+- LinkedIn: https://www.linkedin.com/in/almergaringan/
+- Discord: almer3538
+
 
 <!--
 **AlmerGaringan/AlmerGaringan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
