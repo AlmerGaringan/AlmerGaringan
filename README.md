@@ -13,6 +13,7 @@
 
 # Certifications
 - Google Cyber Security Professional Certificate
+- CompTIA Security+ (In Progress)
 
 # Contact
 - LinkedIn: https://www.linkedin.com/in/almergaringan/
