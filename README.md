@@ -1,6 +1,6 @@
 ## Hi, I'm Almer Garingan 👋
 # About me
-- 2nd year Management Information Systems @ San Jose State University
+- 3rd year Management Information Systems + Computer Network System Management @ San Jose State University
 - Focus on IT and Incident Response
 - Competed in CCDC as a Linux Administrator 
 - Treasurer for Cyber Intelligence & Security @ San Jose State University
